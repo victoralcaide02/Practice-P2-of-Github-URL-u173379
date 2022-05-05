@@ -1,1 +1,3 @@
 For the Practice 2 of Github URL I have completed the entire tutorial, even the second part, where at the end you learn how to pass data between scenes, making your hay machine being able to change its colour.
+
+I want to remark that I have a little bug, I haven't found where does it come from, but when a sheep falls off, instead of deduct one life, it takes two out. Otherwise everything is perfect.
